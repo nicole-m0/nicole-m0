@@ -1,16 +1,52 @@
-## Hi there 👋
+<!-- BANNER -->
 
-<!--
-**nicole-m0/nicole-m0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center">Opa, Nicole aqui! 😉✨</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Técnica em Informática · Técnica em Administração · Entusiasta em Desenvolvimento Web
+</p>
+
+## 🚀 Sobre mim
+
+Sou desenvolvedora web em formação, com foco em Front-end e na construção de projetos práticos para fortalecer meu portfólio. Atualmente, aprofundo meus estudos em fundamentos de APIs e banco de dados com MySQL, buscando evolução contínua e aplicação de boas práticas no desenvolvimento.
+
+---
+
+<h2 align="center">🛠️ Tecnologias</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=FF6B6B"/>
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=4CC9F0"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=FFD60A"/>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
+</p>
+
+<details>
+  <summary>💡 Um pouco sobre meus projetos...</summary>
+  
+  > Projetos principais:
+
+* **💻 Sistema Web Full Stack** - Projetos de desenvolvimento focados em integração de Back-end + Front-end.
+* **🎨 Landing Pages Responsivas** - Coleção de interfaces modernas utilizando HTML, CSS e manipulação de DOM com JS.
+* **🐍 Algoritmos & Lógica** - Projetos dedicados à resolução de problemas complexos utilizando Python.
+</details>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nicole926&background=000000&border=1a1a1a&stroke=f59e0b&ring=d97706&fire=fb542b&currStreakLabel=fbbf24&sideLabels=fbbf24&currStreakNum=ffffff&sideNums=ffffff&dates=71717a" height="150"/>
+</p>
+
+<p align="center">
+  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
+</p>
+
+
+
