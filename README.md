@@ -41,7 +41,7 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nicole926&background=0a0a0a&border=1a1a1a&stroke=8e44ad&ring=f39c12&fire=e67e22&currStreakLabel=9b59b6&sideLabels=9b59b6&currStreakNum=f1c40f&sideNums=f1c40f&dates=555555" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nicole926&background=000000&border=221a00&stroke=daa520&ring=ffd700&fire=ff8c00&currStreakLabel=b8860b&sideLabels=b8860b&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="150"/>
 </p>
 
 <p align="center">
