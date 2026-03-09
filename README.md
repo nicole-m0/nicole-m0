@@ -41,7 +41,7 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-m0&theme=dark&background=161b22&border=262626&stroke=8b7355&ring=cd7f32&fire=cd7f32&currStreakLabel=a68069&sideLabels=a68069&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-m0&theme=dark&background=161b22&border=262626&stroke=8b7355&ring=a68069&fire=a68069&currStreakLabel=a68069&sideLabels=a68069&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" height="150"/>
 </p>
 
 <p align="center">
