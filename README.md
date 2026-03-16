@@ -14,8 +14,17 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
 
 ---
 <h2 align="center">🛠️ Tecnologias</h2>
+
 <div align="center"><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,vscode,py,pycharm,mysql,git,github&theme=dark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35">
+  <img src="https://cdn.simpleicons.org/github/white" width="35"/>
 </div>
 
 <details>
@@ -31,7 +40,7 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-m0&theme=dark&background=161b22&border=262626&stroke=8b7355&ring=a68069&fire=a68069&currStreakLabel=a68069&sideLabels=a68069&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nicole-m0&background=181a1b&border=282a36&stroke=bd93f9&ring=ff79c6&fire=ff5555&currStreakLabel=8be9fd&sideLabels=8be9fd&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=6272a4" height="150"/>
 </p>
 
 <p align="center">
