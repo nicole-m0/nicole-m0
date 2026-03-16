@@ -13,20 +13,9 @@
 Sou desenvolvedora web em formação, com foco em Front-end e na construção de projetos práticos para fortalecer meu portfólio. Atualmente, aprofundo meus estudos em fundamentos de APIs e banco de dados com MySQL, buscando evolução contínua e aplicação de boas práticas no desenvolvimento.
 
 ---
-
-
 <h2 align="center">🛠️ Tecnologias</h2>
-
 <div align="center"><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35">
-  <img src="https://cdn.simpleicons.org/github/white" width="35"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,,pycharm,mysql,git,github,vscode&theme=dark" />
 </div>
 
 <details>
