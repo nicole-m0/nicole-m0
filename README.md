@@ -15,7 +15,7 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
 ---
 <h2 align="center">🛠️ Tecnologias</h2>
 <div align="center"><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,,pycharm,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,vscode,py,pycharm,mysql,git,github&theme=dark" />
 </div>
 
 <details>
