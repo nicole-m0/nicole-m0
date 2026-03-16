@@ -24,7 +24,6 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30">
   <img src="https://cdn.simpleicons.org/github/white" width="30"/>
 </div>
 
