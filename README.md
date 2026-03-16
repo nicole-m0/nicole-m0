@@ -11,11 +11,6 @@
 ## 🚀 Sobre mim
 
 Sou desenvolvedora web em formação, com foco em Front-end e na construção de projetos práticos para fortalecer meu portfólio. Atualmente, aprofundo meus estudos em fundamentos de APIs e banco de dados com MySQL, buscando evolução contínua e aplicação de boas práticas no desenvolvimento.
-<a href="https://www.linkedin.com/in/nicole-mendes-bb63ba350" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@nicole-m0" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
-<a href="https://discord.com/users/1394450477491556382"><img src="https://img.shields.io/badge/Discord-Conversar%20Comigo-5865F2?style=flat-square&logo=discord&logoColor=white">
-</a><a href="mailto:nicolemendes.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
-
 ---
 <h2 align="center">🛠️ Tecnologias</h2>
 
