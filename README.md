@@ -23,7 +23,7 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30" alt="django">
-  <img src="https://img.shields.io/badge/Tornado-008ED1?style=for-the-badge&logo=tornado&logoColor=white" height="30" alt="tornado">
+  <img src="https://cdn.worldvectorlogo.com/logos/tornado-1.svg" width="30" alt="tornado">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30">
   <img src="https://cdn.simpleicons.org/github/white" width="30"/>
