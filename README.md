@@ -14,19 +14,20 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
 
 ---
 
+
 <h2 align="center">🛠️ Tecnologias</h2>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=FF6B6B"/>
-<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=4CC9F0"/>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=FFD60A"/>
-<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff"/>
-
-</p>
+<div align="center"><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35">
+  <img src="https://cdn.simpleicons.org/github/white" width="35"/>
+</div>
 
 <details>
   <summary>💡 Um pouco sobre meus projetos...</summary>
