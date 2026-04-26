@@ -28,16 +28,6 @@ Sou desenvolvedora web em formação, com foco em Front-end e na construção de
   <img src="https://cdn.simpleicons.org/github/white" width="30"/>
 </div>
 
-<details>
-  <summary>💡 Um pouco sobre meus projetos...</summary>
-  
-  > Projetos principais:
-
-* **💻 Sistema Web Full Stack** - Projetos de desenvolvimento focados em integração de Back-end + Front-end.
-* **🎨 Landing Pages Responsivas** - Coleção de interfaces modernas utilizando HTML, CSS e manipulação de DOM com JS.
-* **🐍 Algoritmos & Lógica** - Projetos dedicados à resolução de problemas complexos utilizando Python.
-</details>
-
 ---
 
 <p align="center">
