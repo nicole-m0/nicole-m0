@@ -8,10 +8,6 @@
   Técnica em Informática · Técnica em Administração · Entusiasta em Desenvolvimento Web
 </p>
 
-## 🚀 Sobre mim
-
-Sou desenvolvedora web em formação, com foco em Front-end, Design Web e na construção de projetos práticos para fortalecer meu portfólio. Atualmente, aprofundo meus estudos em fundamentos de APIs e banco de dados com MySQL, buscando evolução contínua e aplicação de boas práticas no desenvolvimento.
-
 ---
 <h2 align="center">🛠️ Tecnologias</h2>
 
