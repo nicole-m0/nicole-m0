@@ -21,7 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30" alt="django">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wix/wix-original.svg" width="30">
   <img src="https://cdn.simpleicons.org/github/white" width="30"/>
 </div>
 
