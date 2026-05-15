@@ -9,86 +9,24 @@
 </p>
 
 ---
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">🚀 Stacks</h2>
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"><br>
-HTML5
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"><br>
-CSS3
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"><br>
-JavaScript
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"><br>
-Python
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"><br>
-Django
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"><br>
-MySQL
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"><br>
-Git
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/github/white" width="45"><br>
-GitHub
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/wix" width="45"><br>
-Wix
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/elementor" width="45"><br>
-Elementor
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/hostinger" width="45"><br>
-Hostinger
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/figma" width="45"><br>
-Figma
-</td>
-
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
+<img src="https://cdn.simpleicons.org/github/white" width="40"/>
+<img src="https://cdn.simpleicons.org/wix" width="40">
+<img src="https://cdn.simpleicons.org/elementor" width="40">
+<img src="https://cdn.simpleicons.org/hostinger" width="40">
+<img src="https://cdn.simpleicons.org/figma" width="40">
 
 </div>
-
 ---
 
 <p align="center">
