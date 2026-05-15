@@ -9,6 +9,7 @@
 </p>
 
 ---
+
 <h2 align="center">🚀 Stacks</h2>
 
 <p align="center">
@@ -16,10 +17,31 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/wix" width="48">
-  <img src="https://cdn.simpleicons.org/elementor" width="48">
-  <img src="https://cdn.simpleicons.org/hostinger" width="48">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github,figma" />
 </p>
+
+<p align="center">
+
+  <img 
+    src="https://cdn.simpleicons.org/wix/white" 
+    width="48"
+    style="background-color:#111;padding:10px;border-radius:12px;"
+  >
+
+  <img 
+    src="https://cdn.simpleicons.org/elementor/white" 
+    width="48"
+    style="background-color:#111;padding:10px;border-radius:12px;"
+  >
+
+  <img 
+    src="https://cdn.simpleicons.org/hostinger/white" 
+    width="48"
+    style="background-color:#111;padding:10px;border-radius:12px;"
+  >
+
+</p>
+
 ---
 
 <p align="center">
