@@ -12,23 +12,35 @@
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://cdn.simpleicons.org/javascript/white" width="32"/>
-<img src="https://cdn.simpleicons.org/html5/white" width="32"/>
-<img src="https://cdn.simpleicons.org/css3/white" width="32"/>
-<img src="https://cdn.simpleicons.org/python/white" width="32"/>
-<img src="https://cdn.simpleicons.org/django/white" width="32"/>
-<img src="https://cdn.simpleicons.org/mysql/white" width="32"/>
-<img src="https://cdn.simpleicons.org/git/white" width="32"/>
-<img src="https://cdn.simpleicons.org/github/white" width="32"/>
-<img src="https://cdn.simpleicons.org/wix/white" width="32"/>
-<img src="https://cdn.simpleicons.org/elementor/white" width="32"/>
-<img src="https://cdn.simpleicons.org/hostinger/white" width="32"/>
-<img src="https://cdn.simpleicons.org/figma/white" width="32"/>
-<img src="https://cdn.simpleicons.org/wordpress/white" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/white" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wix" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/elementor" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/hostinger" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/figma" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress" width="45">
 
-</p>
+</div>
 
 ---
 
