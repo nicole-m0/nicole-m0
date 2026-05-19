@@ -12,19 +12,20 @@
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
-<div align="center"><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30">
-  <img src="https://cdn.simpleicons.org/github/white" width="30"/>
-  <img src="https://cdn.simpleicons.org/wix" width="30">
-  <img src="https://cdn.simpleicons.org/wordpress" width="30">
+<p align="center">
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-16161A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
+<img src="https://img.shields.io/badge/HTML5-16161A?style=for-the-badge&logo=html5&logoColor=FF5F56"/>
+<img src="https://img.shields.io/badge/CSS3-16161A?style=for-the-badge&logo=css3&logoColor=00C2FF"/>
+<img src="https://img.shields.io/badge/Python-16161A?style=for-the-badge&logo=python&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Django-16161A?style=for-the-badge&logo=django&logoColor=00FF9D"/>
+<img src="https://img.shields.io/badge/MySQL-16161A?style=for-the-badge&logo=mysql&logoColor=4DA8FF"/>
+<img src="https://img.shields.io/badge/Git-16161A?style=for-the-badge&logo=git&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/GitHub-16161A?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Wix-16161A?style=for-the-badge&logo=wix&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/WordPress-16161A?style=for-the-badge&logo=wordpress&logoColor=00BFFF"/>
+
+</p>
 
 ---
 
