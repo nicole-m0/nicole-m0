@@ -14,19 +14,16 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-D9B51F?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-C96C5B?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-5B9BD5?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-7E6BC4?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-5E9E6F?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4F7C99?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-D97A66?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-5B5B5B?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wix-7B6CF6?style=for-the-badge&logo=wix&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elementor-EA5A9B?style=for-the-badge&logo=elementor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hostinger-8A63D2?style=for-the-badge&logo=hostinger&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F28B66?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-5A8DB3?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+<img src="https://skillicons.dev/icons?i=django" width="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=figma" width="55"/>
+<img src="https://skillicons.dev/icons?i=wordpress" width="55"/>
 
 </p>
 
