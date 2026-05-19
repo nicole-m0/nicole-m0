@@ -12,21 +12,23 @@
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
-<div align="center">
+<p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=django"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=wix"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress"/>
+<img src="https://cdn.simpleicons.org/javascript/white" width="32"/>
+<img src="https://cdn.simpleicons.org/html5/white" width="32"/>
+<img src="https://cdn.simpleicons.org/css3/white" width="32"/>
+<img src="https://cdn.simpleicons.org/python/white" width="32"/>
+<img src="https://cdn.simpleicons.org/django/white" width="32"/>
+<img src="https://cdn.simpleicons.org/mysql/white" width="32"/>
+<img src="https://cdn.simpleicons.org/git/white" width="32"/>
+<img src="https://cdn.simpleicons.org/github/white" width="32"/>
+<img src="https://cdn.simpleicons.org/wix/white" width="32"/>
+<img src="https://cdn.simpleicons.org/elementor/white" width="32"/>
+<img src="https://cdn.simpleicons.org/hostinger/white" width="32"/>
+<img src="https://cdn.simpleicons.org/figma/white" width="32"/>
+<img src="https://cdn.simpleicons.org/wordpress/white" width="32"/>
 
-</div>
+</p>
 
 ---
 
