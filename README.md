@@ -14,19 +14,17 @@
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40">
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40">
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="40">
-<img src="https://cdn.simpleicons.org/python/8A2BE2" width="40">
-<img src="https://cdn.simpleicons.org/django/00FF99" width="40">
-<img src="https://cdn.simpleicons.org/mysql/4DB6FF" width="40">
-<img src="https://cdn.simpleicons.org/git/F05032" width="40">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40">
-<img src="https://cdn.simpleicons.org/wix/FFFFFF" width="40">
-<img src="https://cdn.simpleicons.org/elementor/FF4D8D" width="40">
-<img src="https://cdn.simpleicons.org/hostinger/B388FF" width="40">
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40">
-<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=django"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=wix"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress"/>
 
 </div>
 
