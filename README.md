@@ -12,20 +12,23 @@
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=js" width="55"/>
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-<img src="https://skillicons.dev/icons?i=django" width="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-<img src="https://skillicons.dev/icons?i=figma" width="55"/>
-<img src="https://skillicons.dev/icons?i=wordpress" width="55"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="40">
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="40">
+<img src="https://cdn.simpleicons.org/python/8A2BE2" width="40">
+<img src="https://cdn.simpleicons.org/django/00FF99" width="40">
+<img src="https://cdn.simpleicons.org/mysql/4DB6FF" width="40">
+<img src="https://cdn.simpleicons.org/git/F05032" width="40">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40">
+<img src="https://cdn.simpleicons.org/wix/FFFFFF" width="40">
+<img src="https://cdn.simpleicons.org/elementor/FF4D8D" width="40">
+<img src="https://cdn.simpleicons.org/hostinger/B388FF" width="40">
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40">
+<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40">
 
-</p>
+</div>
 
 ---
 
