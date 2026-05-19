@@ -14,19 +14,19 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-16161A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
-<img src="https://img.shields.io/badge/HTML5-16161A?style=for-the-badge&logo=html5&logoColor=FF5F56"/>
-<img src="https://img.shields.io/badge/CSS3-16161A?style=for-the-badge&logo=css3&logoColor=00C2FF"/>
-<img src="https://img.shields.io/badge/Python-16161A?style=for-the-badge&logo=python&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/Django-16161A?style=for-the-badge&logo=django&logoColor=00FF9D"/>
-<img src="https://img.shields.io/badge/MySQL-16161A?style=for-the-badge&logo=mysql&logoColor=4DA8FF"/>
-<img src="https://img.shields.io/badge/Git-16161A?style=for-the-badge&logo=git&logoColor=FF6B00"/>
-<img src="https://img.shields.io/badge/GitHub-16161A?style=for-the-badge&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Wix-16161A?style=for-the-badge&logo=wix&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Elementor-16161A?style=for-the-badge&logo=elementor&logoColor=FF4D8D"/>
-<img src="https://img.shields.io/badge/Hostinger-16161A?style=for-the-badge&logo=hostinger&logoColor=A970FF"/>
-<img src="https://img.shields.io/badge/Figma-16161A?style=for-the-badge&logo=figma&logoColor=FF7262"/>
-<img src="https://img.shields.io/badge/WordPress-16161A?style=for-the-badge&logo=wordpress&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=ffffff"/>
 
 </p>
 
