@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Python-16161A?style=for-the-badge&logo=python&logoColor=A855F7"/>
 <img src="https://img.shields.io/badge/Django-16161A?style=for-the-badge&logo=django&logoColor=00FF9D"/>
 <img src="https://img.shields.io/badge/MySQL-16161A?style=for-the-badge&logo=mysql&logoColor=4DA8FF"/>
+<img src="https://img.shields.io/badge/SQLite-16161A?style=for-the-badge&logo=sqlite&logoColor=74C0FC"/>
 <img src="https://img.shields.io/badge/Git-16161A?style=for-the-badge&logo=git&logoColor=FF6B00"/>
 <img src="https://img.shields.io/badge/GitHub-16161A?style=for-the-badge&logo=github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Wix-16161A?style=for-the-badge&logo=wix&logoColor=ffffff"/>
