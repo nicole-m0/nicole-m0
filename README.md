@@ -15,12 +15,19 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-16161A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
+<img src="https://img.shields.io/badge/React-16161A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-16161A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-16161A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Vue.js-16161A?style=for-the-badge&logo=vuedotjs&logoColor=42D392"/>
+<img src="https://img.shields.io/badge/Angular-16161A?style=for-the-badge&logo=angular&logoColor=FF4D6D"/>
+
 <img src="https://img.shields.io/badge/HTML5-16161A?style=for-the-badge&logo=html5&logoColor=FF5F56"/>
 <img src="https://img.shields.io/badge/CSS3-16161A?style=for-the-badge&logo=css3&logoColor=00C2FF"/>
 <img src="https://img.shields.io/badge/Python-16161A?style=for-the-badge&logo=python&logoColor=A855F7"/>
 <img src="https://img.shields.io/badge/Django-16161A?style=for-the-badge&logo=django&logoColor=00FF9D"/>
 <img src="https://img.shields.io/badge/MySQL-16161A?style=for-the-badge&logo=mysql&logoColor=4DA8FF"/>
 <img src="https://img.shields.io/badge/SQLite-16161A?style=for-the-badge&logo=sqlite&logoColor=74C0FC"/>
+
 <img src="https://img.shields.io/badge/Git-16161A?style=for-the-badge&logo=git&logoColor=FF6B00"/>
 <img src="https://img.shields.io/badge/GitHub-16161A?style=for-the-badge&logo=github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Wix-16161A?style=for-the-badge&logo=wix&logoColor=ffffff"/>
