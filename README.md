@@ -43,6 +43,13 @@
 
 ---
 
+<img src="https://img.shields.io/badge/XAMPP-16161A?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
+<img src="https://img.shields.io/badge/PuTTY-16161A?style=for-the-badge&logo=putty&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notepad++-16161A?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A"/>
+<img src="https://img.shields.io/badge/FileZilla-16161A?style=for-the-badge&logo=filezilla&logoColor=FF4444"/>
+
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nicole-m0&background=181a1b&border=282a36&stroke=bd93f9&ring=6272a4&fire=ff5555&currStreakLabel=8be9fd&sideLabels=8be9fd&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=6272a4" height="150"/>
 </p>
