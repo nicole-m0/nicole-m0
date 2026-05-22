@@ -43,10 +43,14 @@
 
 ---
 
-<img src="https://img.shields.io/badge/XAMPP-16161A?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
-<img src="https://img.shields.io/badge/PuTTY-16161A?style=for-the-badge&logo=putty&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notepad++-16161A?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A"/>
-<img src="https://img.shields.io/badge/FileZilla-16161A?style=for-the-badge&logo=filezilla&logoColor=FF4444"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/XAMPP-F2A07B?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/PuTTY-A8B2D1?style=for-the-badge&logo=putty&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notepad++-9ACB9A?style=for-the-badge&logo=notepadplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/FileZilla-E58B8B?style=for-the-badge&logo=filezilla&logoColor=white"/>
+
+</p>
 
 ---
 
