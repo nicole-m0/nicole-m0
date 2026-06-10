@@ -33,6 +33,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicole-m0&theme=nord_dark" />
+  <img src="https://streak-stats.demolab.com?user=nicole-m0&background=181a1b&border=282a36&stroke=bd93f9&ring=6272a4&fire=ff5555&currStreakLabel=8be9fd&sideLabels=8be9fd&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=6272a4" height="150"/>
 </p>
 
