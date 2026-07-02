@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">🛠️ Stacks</h2>
 
 <p align="center">
 
