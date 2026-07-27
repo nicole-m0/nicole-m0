@@ -26,6 +26,5 @@
 <img src="https://img.shields.io/badge/Git-16161A?style=for-the-badge&logo=git&logoColor=FF6B00"/>
 <img src="https://img.shields.io/badge/GitHub-16161A?style=for-the-badge&logo=github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Wix-16161A?style=for-the-badge&logo=wix&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/WordPress-16161A?style=for-the-badge&logo=wordpress&logoColor=00BFFF"/>
 
 </p>
