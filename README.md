@@ -49,34 +49,23 @@
 
 ---
 
-<details>
-<summary><h2>🧰 Tools</h2></summary>
+<details> <summary><h3>🧰 Tools & Other Technologies</h2></summary>
 
 <br>
 
+<h3 align="center">🛠️ Tools & Development</h3>
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30">
-<img src="https://cdn.simpleicons.org/github/white" width="30">
-<img src="https://cdn.simpleicons.org/vercel/white" width="30">
-<img src="https://cdn.simpleicons.org/railway/white" width="30">
-<img src="https://cdn.simpleicons.org/postman/white" width="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"> <img src="https://cdn.simpleicons.org/github/white" width="30"> <img src="https://cdn.simpleicons.org/vercel/white" width="30"> <img src="https://cdn.simpleicons.org/railway/white" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postcss/postcss-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="30">
 
 </p>
 
-</details>
-
-<details>
-<summary><h2>📚 Other Technologies</h2></summary>
-
-<br>
+<h3 align="center">📚 Other Technologies</h3>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30">
 
 </p>
 
@@ -85,5 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nicole-m0&background=181a1b&border=282a36&stroke=bd93f9&ring=6272a4&fire=ff5555&currStreakLabel=8be9fd&sideLabels=8be9fd&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=6272a4" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicole-m0&theme=nord_dark" />
 </p>
