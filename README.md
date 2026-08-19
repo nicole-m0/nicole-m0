@@ -16,17 +16,29 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<p align="center">
-  I'm an IT Technician passionate about web development and technology.
-  <br>
-  I'm currently focused on building modern web applications and APIs,
-  <br>
-  exploring full-stack development and learning through real-world projects.
-  <br><br>
-  I enjoy turning ideas into functional, clean, and practical applications
-  <br>
-  while constantly improving my skills and exploring new technologies.
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="35%">
+      <img src="SEU_GIF_AQUI" width="180">
+    </td>
+    <td width="65%">
+      <p>
+        I'm an IT Technician passionate about web development and building things
+        that turn ideas into real applications.
+      </p>
+
+      <p>
+        Currently, I'm focused on full-stack development, working mainly with
+        Next.js, TypeScript, Node.js, Prisma, and APIs.
+      </p>
+
+      <p>
+        I'm always learning, experimenting with new technologies, and improving
+        my skills through personal and real-world projects.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
