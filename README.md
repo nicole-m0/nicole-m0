@@ -49,7 +49,7 @@
 
 ---
 
-<details> <summary><h3>🧰 Tools & Other Technologies</h2></summary>
+<details> <summary><h3>🧰 Tools & Other Technologies</h3></summary>
 
 <br>
 
