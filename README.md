@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td align="center" width="35%">
-      <img src="manutencao.gif" width="180">
+      <img src="manutencao.png" width="180">
     </td>
     <td width="65%">
       <p>
