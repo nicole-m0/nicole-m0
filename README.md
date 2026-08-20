@@ -52,7 +52,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postcss/postcss-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="30">
@@ -75,6 +74,7 @@
   <img src="https://cdn.simpleicons.org/github/white" width="30">
   <img src="https://cdn.simpleicons.org/vercel/white" width="30">
   <img src="https://cdn.simpleicons.org/railway/white" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30">
 </p>
 
 <h3>📚 Other Technologies</h3>
