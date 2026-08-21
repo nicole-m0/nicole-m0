@@ -45,7 +45,7 @@
 
 <h3>🎨 Frontend</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F0D56A?style=for-the-badge&logo=javascript&logoColor=7A6218"/>
   <img src="https://img.shields.io/badge/TypeScript-86B4D8?style=for-the-badge&logo=typescript&logoColor=234B69"/>
   <img src="https://img.shields.io/badge/React-8ED8E0?style=for-the-badge&logo=react&logoColor=216B72"/>
@@ -56,7 +56,7 @@
 
 <h3>⚙️ Backend</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-9BCB8A?style=for-the-badge&logo=nodedotjs&logoColor=356B31"/>
   <img src="https://img.shields.io/badge/Prisma-BDB5A8?style=for-the-badge&logo=prisma&logoColor=45413D"/>
   <img src="https://img.shields.io/badge/Python-E3D47A?style=for-the-badge&logo=python&logoColor=59621E"/>
@@ -67,7 +67,7 @@
 
 <h3>🧰 DevOps & Tools</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-E5A38A?style=for-the-badge&logo=git&logoColor=873E28"/>
   <img src="https://img.shields.io/badge/GitHub-BDBDBD?style=for-the-badge&logo=github&logoColor=292929"/>
   <img src="https://img.shields.io/badge/Postman-E8A879?style=for-the-badge&logo=postman&logoColor=8A431E"/>
