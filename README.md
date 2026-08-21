@@ -35,14 +35,13 @@
   </p>
 
   <p>
-    Always learning, experimenting, and turning ideas into real projects.
+    Always learning and turning ideas into real projects.
   </p>
 </td>
 ```
 
   </tr>
 </table>
-
 
 ---
 
@@ -54,7 +53,7 @@
   <li>🗄️ Work with databases and ORM solutions</li>
   <li>🔌 Integrate APIs and external services</li>
   <li>🚀 Deploy and manage web projects</li>
-  <li>📚 Continuously learn and experiment with new technologies</li>
+  <li>📚 Continuously learn new technologies</li>
 </ul>
 
 ---
@@ -63,34 +62,34 @@
 
 <h3>🎨 Frontend</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-16161A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-16161A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-16161A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-16161A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/HTML5-16161A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-16161A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-E9D9A8?style=for-the-badge&logo=javascript&logoColor=8A6D1D"/>
+  <img src="https://img.shields.io/badge/TypeScript-C8D7E6?style=for-the-badge&logo=typescript&logoColor=315A7D"/>
+  <img src="https://img.shields.io/badge/React-C9E2E5?style=for-the-badge&logo=react&logoColor=287B82"/>
+  <img src="https://img.shields.io/badge/Next.js-E4E0D8?style=for-the-badge&logo=nextdotjs&logoColor=242424"/>
+  <img src="https://img.shields.io/badge/HTML5-E8CFC2?style=for-the-badge&logo=html5&logoColor=A95735"/>
+  <img src="https://img.shields.io/badge/CSS3-C9D9E8?style=for-the-badge&logo=css3&logoColor=3D6F91"/>
 </p>
 
 <h3>⚙️ Backend</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-16161A?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Prisma-16161A?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Python-16161A?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Django-16161A?style=for-the-badge&logo=django&logoColor=0FA36B"/>
-  <img src="https://img.shields.io/badge/MySQL-16161A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Beekeeper%20Studio-16161A?style=for-the-badge&logo=beekeeperstudio&logoColor=F5C542"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-C9DDBF?style=for-the-badge&logo=nodedotjs&logoColor=3F713B"/>
+  <img src="https://img.shields.io/badge/Prisma-D9D3C8?style=for-the-badge&logo=prisma&logoColor=4B4B4B"/>
+  <img src="https://img.shields.io/badge/Python-D9D5B8?style=for-the-badge&logo=python&logoColor=68743A"/>
+  <img src="https://img.shields.io/badge/Django-C5DCCF?style=for-the-badge&logo=django&logoColor=356B50"/>
+  <img src="https://img.shields.io/badge/MySQL-CBD9E1?style=for-the-badge&logo=mysql&logoColor=496C80"/>
+  <img src="https://img.shields.io/badge/Beekeeper%20Studio-E8D7A8?style=for-the-badge&logo=beekeeperstudio&logoColor=8A6D1D"/>
 </p>
 
 <h3>🧰 DevOps & Tools</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-16161A?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-16161A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Postman-16161A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/Vercel-16161A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Railway-16161A?style=for-the-badge&logo=railway&logoColor=FFFFFF"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-E5CFC4?style=for-the-badge&logo=git&logoColor=9B5138"/>
+  <img src="https://img.shields.io/badge/GitHub-D9D6D0?style=for-the-badge&logo=github&logoColor=343434"/>
+  <img src="https://img.shields.io/badge/Postman-E8D2C3?style=for-the-badge&logo=postman&logoColor=A65D32"/>
+  <img src="https://img.shields.io/badge/Vercel-DCD9D2?style=for-the-badge&logo=vercel&logoColor=303030"/>
+  <img src="https://img.shields.io/badge/Railway-D8D0C5?style=for-the-badge&logo=railway&logoColor=454545"/>
 </p>
 
 ---
