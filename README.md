@@ -15,26 +15,15 @@
 
 ---
 
-<h2>👩‍💻 About Me</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="30%">
-      <img src="manutencao.png" width="160">
+<h2 align="center">👩‍💻 About Me</h2> 
+<table align="center"> 
+  <tr> 
+    <td width="70%"> 
+      <p> I'm an IT Technician passionate about web development and building modern applications. </p> 
+      <p> Currently focused on full-stack development with Next.js, TypeScript, Node.js, Prisma, and APIs. </p> 
+      <p> Always learning, experimenting, and turning ideas into real projects. </p> 
     </td>
-
-    <td width="70%">
-      <p>
-        I'm an IT Technician passionate about web development and building
-        modern applications.
-      </p>
-
-      <p>
-        Currently focused on full-stack development with Next.js, TypeScript,
-        Node.js, Prisma, and APIs.
-      </p>
-    </td>
-  </tr>
+  </tr> 
 </table>
 
 ---
