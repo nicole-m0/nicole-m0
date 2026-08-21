@@ -1,3 +1,4 @@
+```html
 <!-- BANNER -->
 
 ---
@@ -16,30 +17,23 @@
 
 <h2>👩‍💻 About Me</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="30%" align="center">
+    <td align="center" width="30%">
       <img src="manutencao.png" width="160">
     </td>
 
-```
-<td width="70%">
-  <p>
-    I'm an IT Technician passionate about web development and building
-    modern applications.
-  </p>
+    <td width="70%">
+      <p>
+        I'm an IT Technician passionate about web development and building
+        modern applications.
+      </p>
 
-  <p>
-    Currently focused on full-stack development with Next.js, TypeScript,
-    Node.js, Prisma, and APIs.
-  </p>
-
-  <p>
-    Always learning and turning ideas into real projects.
-  </p>
-</td>
-```
-
+      <p>
+        Currently focused on full-stack development with Next.js, TypeScript,
+        Node.js, Prisma, and APIs.
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -63,33 +57,33 @@
 <h3>🎨 Frontend</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-E9D9A8?style=for-the-badge&logo=javascript&logoColor=8A6D1D"/>
-  <img src="https://img.shields.io/badge/TypeScript-C8D7E6?style=for-the-badge&logo=typescript&logoColor=315A7D"/>
-  <img src="https://img.shields.io/badge/React-C9E2E5?style=for-the-badge&logo=react&logoColor=287B82"/>
-  <img src="https://img.shields.io/badge/Next.js-E4E0D8?style=for-the-badge&logo=nextdotjs&logoColor=242424"/>
-  <img src="https://img.shields.io/badge/HTML5-E8CFC2?style=for-the-badge&logo=html5&logoColor=A95735"/>
-  <img src="https://img.shields.io/badge/CSS3-C9D9E8?style=for-the-badge&logo=css3&logoColor=3D6F91"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0D56A?style=for-the-badge&logo=javascript&logoColor=7A6218"/>
+  <img src="https://img.shields.io/badge/TypeScript-86B4D8?style=for-the-badge&logo=typescript&logoColor=234B69"/>
+  <img src="https://img.shields.io/badge/React-8ED8E0?style=for-the-badge&logo=react&logoColor=216B72"/>
+  <img src="https://img.shields.io/badge/Next.js-D8D5CE?style=for-the-badge&logo=nextdotjs&logoColor=202020"/>
+  <img src="https://img.shields.io/badge/HTML5-E6A98D?style=for-the-badge&logo=html5&logoColor=913F24"/>
+  <img src="https://img.shields.io/badge/CSS3-9EC4E0?style=for-the-badge&logo=css3&logoColor=285B7D"/>
 </p>
 
 <h3>⚙️ Backend</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-C9DDBF?style=for-the-badge&logo=nodedotjs&logoColor=3F713B"/>
-  <img src="https://img.shields.io/badge/Prisma-D9D3C8?style=for-the-badge&logo=prisma&logoColor=4B4B4B"/>
-  <img src="https://img.shields.io/badge/Python-D9D5B8?style=for-the-badge&logo=python&logoColor=68743A"/>
-  <img src="https://img.shields.io/badge/Django-C5DCCF?style=for-the-badge&logo=django&logoColor=356B50"/>
-  <img src="https://img.shields.io/badge/MySQL-CBD9E1?style=for-the-badge&logo=mysql&logoColor=496C80"/>
-  <img src="https://img.shields.io/badge/Beekeeper%20Studio-E8D7A8?style=for-the-badge&logo=beekeeperstudio&logoColor=8A6D1D"/>
+  <img src="https://img.shields.io/badge/Node.js-9BCB8A?style=for-the-badge&logo=nodedotjs&logoColor=356B31"/>
+  <img src="https://img.shields.io/badge/Prisma-BDB5A8?style=for-the-badge&logo=prisma&logoColor=45413D"/>
+  <img src="https://img.shields.io/badge/Python-E3D47A?style=for-the-badge&logo=python&logoColor=59621E"/>
+  <img src="https://img.shields.io/badge/Django-8FC7A8?style=for-the-badge&logo=django&logoColor=285B43"/>
+  <img src="https://img.shields.io/badge/MySQL-8EB7CA?style=for-the-badge&logo=mysql&logoColor=315B6B"/>
+  <img src="https://img.shields.io/badge/Beekeeper%20Studio-F0D26A?style=for-the-badge&logo=beekeeperstudio&logoColor=79631A"/>
 </p>
 
 <h3>🧰 DevOps & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-E5CFC4?style=for-the-badge&logo=git&logoColor=9B5138"/>
-  <img src="https://img.shields.io/badge/GitHub-D9D6D0?style=for-the-badge&logo=github&logoColor=343434"/>
-  <img src="https://img.shields.io/badge/Postman-E8D2C3?style=for-the-badge&logo=postman&logoColor=A65D32"/>
-  <img src="https://img.shields.io/badge/Vercel-DCD9D2?style=for-the-badge&logo=vercel&logoColor=303030"/>
-  <img src="https://img.shields.io/badge/Railway-D8D0C5?style=for-the-badge&logo=railway&logoColor=454545"/>
+  <img src="https://img.shields.io/badge/Git-E5A38A?style=for-the-badge&logo=git&logoColor=873E28"/>
+  <img src="https://img.shields.io/badge/GitHub-BDBDBD?style=for-the-badge&logo=github&logoColor=292929"/>
+  <img src="https://img.shields.io/badge/Postman-E8A879?style=for-the-badge&logo=postman&logoColor=8A431E"/>
+  <img src="https://img.shields.io/badge/Vercel-C8C8C8?style=for-the-badge&logo=vercel&logoColor=252525"/>
+  <img src="https://img.shields.io/badge/Railway-AFA4C6?style=for-the-badge&logo=railway&logoColor=50446D"/>
 </p>
 
 ---
@@ -99,3 +93,4 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicole-m0&theme=nord_dark" />
 </p>
+```
