@@ -46,35 +46,34 @@
 <h3>🎨 Frontend</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F0D56A?style=for-the-badge&logo=javascript&logoColor=7A6218"/>
-  <img src="https://img.shields.io/badge/TypeScript-86B4D8?style=for-the-badge&logo=typescript&logoColor=234B69"/>
-  <img src="https://img.shields.io/badge/React-8ED8E0?style=for-the-badge&logo=react&logoColor=216B72"/>
-  <img src="https://img.shields.io/badge/Next.js-D8D5CE?style=for-the-badge&logo=nextdotjs&logoColor=202020"/>
-  <img src="https://img.shields.io/badge/HTML5-E6A98D?style=for-the-badge&logo=html5&logoColor=913F24"/>
-  <img src="https://img.shields.io/badge/CSS3-9EC4E0?style=for-the-badge&logo=css3&logoColor=285B7D"/>
+  <img src="https://img.shields.io/badge/JavaScript-D8B83F?style=for-the-badge&logo=javascript&logoColor=5C4810"/>
+  <img src="https://img.shields.io/badge/TypeScript-5F93B8?style=for-the-badge&logo=typescript&logoColor=E8F2F8"/>
+  <img src="https://img.shields.io/badge/React-5EBBC5?style=for-the-badge&logo=react&logoColor=E8FAFC"/>
+  <img src="https://img.shields.io/badge/Next.js-B9B6B0?style=for-the-badge&logo=nextdotjs&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/HTML5-D7825F?style=for-the-badge&logo=html5&logoColor=FFF2EC"/>
+  <img src="https://img.shields.io/badge/CSS3-6D9FC4?style=for-the-badge&logo=css3&logoColor=EEF7FC"/>
 </p>
 
 <h3>⚙️ Backend</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-9BCB8A?style=for-the-badge&logo=nodedotjs&logoColor=356B31"/>
-  <img src="https://img.shields.io/badge/Prisma-BDB5A8?style=for-the-badge&logo=prisma&logoColor=45413D"/>
-  <img src="https://img.shields.io/badge/Python-E3D47A?style=for-the-badge&logo=python&logoColor=59621E"/>
-  <img src="https://img.shields.io/badge/Django-8FC7A8?style=for-the-badge&logo=django&logoColor=285B43"/>
-  <img src="https://img.shields.io/badge/MySQL-8EB7CA?style=for-the-badge&logo=mysql&logoColor=315B6B"/>
-  <img src="https://img.shields.io/badge/Beekeeper%20Studio-F0D26A?style=for-the-badge&logo=beekeeperstudio&logoColor=79631A"/>
+  <img src="https://img.shields.io/badge/Node.js-73AD68?style=for-the-badge&logo=nodedotjs&logoColor=F1FAEE"/>
+  <img src="https://img.shields.io/badge/Prisma-9F978C?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Python-C9B83F?style=for-the-badge&logo=python&logoColor=FFFBE6"/>
+  <img src="https://img.shields.io/badge/Django-65A884?style=for-the-badge&logo=django&logoColor=F0FFF6"/>
+  <img src="https://img.shields.io/badge/MySQL-638FA6?style=for-the-badge&logo=mysql&logoColor=F0F8FC"/>
+  <img src="https://img.shields.io/badge/Beekeeper%20Studio-D8B83F?style=for-the-badge&logo=beekeeperstudio&logoColor=FFF7D6"/>
 </p>
 
 <h3>🧰 DevOps & Tools</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-E5A38A?style=for-the-badge&logo=git&logoColor=873E28"/>
-  <img src="https://img.shields.io/badge/GitHub-BDBDBD?style=for-the-badge&logo=github&logoColor=292929"/>
-  <img src="https://img.shields.io/badge/Postman-E8A879?style=for-the-badge&logo=postman&logoColor=8A431E"/>
-  <img src="https://img.shields.io/badge/Vercel-C8C8C8?style=for-the-badge&logo=vercel&logoColor=252525"/>
-  <img src="https://img.shields.io/badge/Railway-AFA4C6?style=for-the-badge&logo=railway&logoColor=50446D"/>
+  <img src="https://img.shields.io/badge/Git-D28A6B?style=for-the-badge&logo=git&logoColor=FFF3EE"/>
+  <img src="https://img.shields.io/badge/GitHub-999999?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Postman-D68B5E?style=for-the-badge&logo=postman&logoColor=FFF5EF"/>
+  <img src="https://img.shields.io/badge/Vercel-A6A6A6?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Railway-8C7FB0?style=for-the-badge&logo=railway&logoColor=F7F3FF"/>
 </p>
-
 ---
 
 <h2>📊 GitHub Stats</h2>
