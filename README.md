@@ -81,5 +81,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-m0&layout=compact&hide_border=true&bg_color=16161A&title_color=9B6DFF&text_color=E6E6E6"height="180"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-m0&layout=compact&hide_border=true&bg_color=16161A&title_color=9B6DFF&text_color=E6E6E6"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
