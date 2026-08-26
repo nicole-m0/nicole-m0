@@ -46,34 +46,34 @@
 <h3>🎨 Frontend</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-D8B83F?style=for-the-badge&logo=javascript&logoColor=5C4810"/>
-  <img src="https://img.shields.io/badge/TypeScript-5F93B8?style=for-the-badge&logo=typescript&logoColor=E8F2F8"/>
-  <img src="https://img.shields.io/badge/React-5EBBC5?style=for-the-badge&logo=react&logoColor=E8FAFC"/>
-  <img src="https://img.shields.io/badge/Next.js-B9B6B0?style=for-the-badge&logo=nextdotjs&logoColor=181818"/>
-  <img src="https://img.shields.io/badge/HTML5-D7825F?style=for-the-badge&logo=html5&logoColor=FFF2EC"/>
-  <img src="https://img.shields.io/badge/CSS3-6D9FC4?style=for-the-badge&logo=css3&logoColor=EEF7FC"/>
+  <img src="https://img.shields.io/badge/JavaScript-D4B84C?style=for-the-badge&logo=javascript&logoColor=FFF8DC"/>
+  <img src="https://img.shields.io/badge/TypeScript-4F82A8?style=for-the-badge&logo=typescript&logoColor=F2F7FA"/>
+  <img src="https://img.shields.io/badge/React-3FA9B5?style=for-the-badge&logo=react&logoColor=F2FCFD"/>
+  <img src="https://img.shields.io/badge/Next.js-3E3E42?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/HTML5-CB7557?style=for-the-badge&logo=html5&logoColor=FFF5F1"/>
+  <img src="https://img.shields.io/badge/CSS3-4F86AE?style=for-the-badge&logo=css3&logoColor=F3F8FC"/>
 </p>
 
 <h3>⚙️ Backend</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-73AD68?style=for-the-badge&logo=nodedotjs&logoColor=F1FAEE"/>
-  <img src="https://img.shields.io/badge/Prisma-9F978C?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Python-C9B83F?style=for-the-badge&logo=python&logoColor=FFFBE6"/>
-  <img src="https://img.shields.io/badge/Django-65A884?style=for-the-badge&logo=django&logoColor=F0FFF6"/>
-  <img src="https://img.shields.io/badge/MySQL-638FA6?style=for-the-badge&logo=mysql&logoColor=F0F8FC"/>
-  <img src="https://img.shields.io/badge/Beekeeper%20Studio-D8B83F?style=for-the-badge&logo=beekeeperstudio&logoColor=FFF7D6"/>
+  <img src="https://img.shields.io/badge/Node.js-5E9B5A?style=for-the-badge&logo=nodedotjs&logoColor=F4FBF3"/>
+  <img src="https://img.shields.io/badge/Prisma-77736D?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Python-B49A3A?style=for-the-badge&logo=python&logoColor=FFFBE8"/>
+  <img src="https://img.shields.io/badge/Django-4F8F70?style=for-the-badge&logo=django&logoColor=F2FBF6"/>
+  <img src="https://img.shields.io/badge/MySQL-4D7891?style=for-the-badge&logo=mysql&logoColor=F1F7FA"/>
+  <img src="https://img.shields.io/badge/Beekeeper%20Studio-C9A83E?style=for-the-badge&logo=beekeeperstudio&logoColor=FFF9DF"/>
 </p>
 
 <h3>🧰 DevOps & Tools</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-D28A6B?style=for-the-badge&logo=git&logoColor=FFF3EE"/>
-  <img src="https://img.shields.io/badge/GitHub-999999?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Postman-D68B5E?style=for-the-badge&logo=postman&logoColor=FFF5EF"/>
-  <img src="https://img.shields.io/badge/Vercel-A6A6A6?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Railway-8C7FB0?style=for-the-badge&logo=railway&logoColor=F7F3FF"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D99A6C?style=for-the-badge&logo=claude&logoColor=FFF4EA"/>
+  <img src="https://img.shields.io/badge/Git-C56F50?style=for-the-badge&logo=git&logoColor=FFF5F1"/>
+  <img src="https://img.shields.io/badge/GitHub-55555A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Postman-C9784E?style=for-the-badge&logo=postman&logoColor=FFF6F0"/>
+  <img src="https://img.shields.io/badge/Vercel-4A4A4D?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Railway-756A9A?style=for-the-badge&logo=railway&logoColor=F8F5FF"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-C27D5B?style=for-the-badge&logo=claude&logoColor=FFF6F0"/>
 </p>
 ---
 
