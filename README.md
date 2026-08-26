@@ -46,7 +46,7 @@
 <h3>🎨 Frontend</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-D4B84C?style=for-the-badge&logo=javascript&logoColor=FFF8DC"/>
+  <img src="https://img.shields.io/badge/JavaScript-E0C34A?style=for-the-badge&logo=javascript&logoColor=5A4908"/>
   <img src="https://img.shields.io/badge/TypeScript-4F82A8?style=for-the-badge&logo=typescript&logoColor=F2F7FA"/>
   <img src="https://img.shields.io/badge/React-3FA9B5?style=for-the-badge&logo=react&logoColor=F2FCFD"/>
   <img src="https://img.shields.io/badge/Next.js-3E3E42?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
@@ -59,10 +59,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-5E9B5A?style=for-the-badge&logo=nodedotjs&logoColor=F4FBF3"/>
   <img src="https://img.shields.io/badge/Prisma-77736D?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Python-B49A3A?style=for-the-badge&logo=python&logoColor=FFFBE8"/>
+  <img src="https://img.shields.io/badge/Python-6FAF7B?style=for-the-badge&logo=python&logoColor=F3FFF5"/>
   <img src="https://img.shields.io/badge/Django-4F8F70?style=for-the-badge&logo=django&logoColor=F2FBF6"/>
   <img src="https://img.shields.io/badge/MySQL-4D7891?style=for-the-badge&logo=mysql&logoColor=F1F7FA"/>
-  <img src="https://img.shields.io/badge/Beekeeper%20Studio-C9A83E?style=for-the-badge&logo=beekeeperstudio&logoColor=FFF9DF"/>
+  <img src="https://img.shields.io/badge/Beekeeper%20Studio-E6C84F?style=for-the-badge&logo=beekeeperstudio&logoColor=5B4A08"/>
 </p>
 
 <h3>🧰 DevOps & Tools</h3>
