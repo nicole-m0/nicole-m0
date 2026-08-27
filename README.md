@@ -72,7 +72,6 @@
   <img src="https://img.shields.io/badge/GitHub-55555A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Postman-C9784E?style=for-the-badge&logo=postman&logoColor=FFF6F0"/>
   <img src="https://img.shields.io/badge/Vercel-4A4A4D?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Railway-756A9A?style=for-the-badge&logo=railway&logoColor=F8F5FF"/>
   <img src="https://img.shields.io/badge/Claude%20Code-C27D5B?style=for-the-badge&logo=claude&logoColor=FFF6F0"/>
 </p>
 ---
