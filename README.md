@@ -15,18 +15,6 @@
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2> 
-<table align="center"> 
-  <tr> 
-    <td width="70%"> 
-      <p> I'm an IT Technician passionate about web development and building modern applications. </p> 
-      <p> Currently focused on full-stack development with Next.js, TypeScript, Node.js, Prisma, and APIs. </p> 
-      <p> Always learning, experimenting, and turning ideas into real projects. </p> 
-    </td>
-  </tr> 
-</table>
-
----
 
 <h2>🧠 What I Do</h2>
 
